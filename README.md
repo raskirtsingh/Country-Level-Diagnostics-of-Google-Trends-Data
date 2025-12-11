@@ -3,7 +3,11 @@
 ## Contributors: 
 
 Raskirt Bhatia
+
 Divyesh Sai Annavarapu
+
 Lifu Li
+
 Wenxin Liang (Freya)
+
 Xingzhu Chen
